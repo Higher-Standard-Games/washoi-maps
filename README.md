@@ -16,6 +16,7 @@ from Warfork's media and the `washoi_textures.pk3` master.
 | `maps/washoi_snd1.map` | Concrete Strike | warfork-maps `maps/wfbomb1.map` |
 | `maps/washoi_amphi2.map` | Washoi Amphi2 (Octagon Obsession) | warfork-maps `wswmaps/wda5.map`, corrected |
 | `maps/washoi_snd6.map` | Depot | warfork-maps `wswmaps/wbomb6.map`, corrected |
+| `maps/washoi_snd4.map` | Shepas | warfork-maps `maps/wfbomb4.map`, with `_lightmapImageSize 2048` and `gridsize 64 64 64` |
 
 warfork-maps revision: `00bf74a72c6a66561e07571c59b4ca99850279fa`.
 The first seven are copied as they are upstream. The served BSPs of dm7, dm11,

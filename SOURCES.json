@@ -35,19 +35,21 @@
     "washoi_snd6": {
       "source": ".cache/map-build-2026-11/maps/wbomb6.map",
       "models": 94
+    },
+    "washoi_snd4": {
+      "source": ".cache/map-build-2026-11/maps/wfbomb4.map",
+      "models": 49
     }
   },
   "filesBySource": {
-    "C:/Users/sundf/Desktop/warfork-maps": 652,
+    "C:/Users/sundf/Desktop/warfork-maps": 678,
+    "rapid.tar": 2,
     "C:/Users/sundf/Desktop/wash/shag/.cache/map-build-2026-11/fixes3": 1,
     "C:/Users/sundf/Desktop/wash/shag/.cache/map-build-2026-11/fixes2": 1,
     "C:/Users/sundf/Desktop/wash/shag/.cache/map-build-2026-11/fixes": 2
   },
   "missing": [],
   "addedByHand": {
-    "models/mapobjects/crates/crate_wood.ase": "rapid.tar (2013 original; Warfork ships crate_wood.obj)",
-    "models/mapobjects/decor_misc/airshaft.ase": "rapid.tar (original; Warfork ships airshaft.obj)",
-    "models/mapobjects/handrails/handrail_2.obj": "warfork-maps (washoi_snd1 names handrail_2.ase, which exists nowhere)",
-    "models/mapobjects/wda5/wda5_WallPipe.ase": "rapid.tar"
+    "models/mapobjects/handrails/handrail_2.obj": "warfork-maps (washoi_snd1 names handrail_2.ase, which exists nowhere)"
   }
 }
