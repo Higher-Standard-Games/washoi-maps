@@ -1,0 +1,53 @@
+{
+  "maps": {
+    "washoi_dm2": {
+      "source": "C:/Users/sundf/Desktop/warfork-maps/wswmaps/wdm2.map",
+      "models": 11
+    },
+    "washoi_dm5": {
+      "source": "C:/Users/sundf/Desktop/warfork-maps/maps/wfdm5.map",
+      "models": 91
+    },
+    "washoi_dm7": {
+      "source": "C:/Users/sundf/Desktop/warfork-maps/maps/wfdm7.map",
+      "models": 17
+    },
+    "washoi_dm11": {
+      "source": "C:/Users/sundf/Desktop/warfork-maps/maps/wfdm11.map",
+      "models": 54
+    },
+    "washoi_dm14": {
+      "source": "C:/Users/sundf/Desktop/warfork-maps/maps/wfdm14.map",
+      "models": 12
+    },
+    "washoi_amphi1": {
+      "source": "C:/Users/sundf/Desktop/warfork-maps/wswmaps/wamphi1.map",
+      "models": 0
+    },
+    "washoi_snd1": {
+      "source": "C:/Users/sundf/Desktop/warfork-maps/maps/wfbomb1.map",
+      "models": 51
+    },
+    "washoi_amphi2": {
+      "source": ".cache/map-build-2026-11/maps/wda5.map",
+      "models": 64
+    },
+    "washoi_snd6": {
+      "source": ".cache/map-build-2026-11/maps/wbomb6.map",
+      "models": 94
+    }
+  },
+  "filesBySource": {
+    "C:/Users/sundf/Desktop/warfork-maps": 652,
+    "C:/Users/sundf/Desktop/wash/shag/.cache/map-build-2026-11/fixes3": 1,
+    "C:/Users/sundf/Desktop/wash/shag/.cache/map-build-2026-11/fixes2": 1,
+    "C:/Users/sundf/Desktop/wash/shag/.cache/map-build-2026-11/fixes": 2
+  },
+  "missing": [],
+  "addedByHand": {
+    "models/mapobjects/crates/crate_wood.ase": "rapid.tar (2013 original; Warfork ships crate_wood.obj)",
+    "models/mapobjects/decor_misc/airshaft.ase": "rapid.tar (original; Warfork ships airshaft.obj)",
+    "models/mapobjects/handrails/handrail_2.obj": "warfork-maps (washoi_snd1 names handrail_2.ase, which exists nowhere)",
+    "models/mapobjects/wda5/wda5_WallPipe.ase": "rapid.tar"
+  }
+}

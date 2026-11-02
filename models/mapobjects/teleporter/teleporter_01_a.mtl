@@ -1,0 +1,18 @@
+newmtl teleporter_01_a:MD3__default__teleporter_01_001__1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd models/mapobjects/teleporter/teleporter_01_a.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl teleporter_01_a:MD3__default__teleporter_01_glo__2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd models/mapobjects/teleporter/teleporter_01_glow.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 10.00
