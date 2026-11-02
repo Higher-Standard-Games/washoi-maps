@@ -19922,6 +19922,7 @@ bricks/redbricks_base_02
 // entity 57
 {
 "classname" "misc_model"
+"collisiontype" "extrude"
 "origin" "624 -96 464"
 "model" "models/mapobjects/concretestrike/concrestrike_ceil_support_integrated.ase"
 "spawnflags" "14"
@@ -19930,6 +19931,7 @@ bricks/redbricks_base_02
 // entity 58
 {
 "classname" "misc_model"
+"collisiontype" "extrude"
 "origin" "-160 -208 464"
 "model" "models/mapobjects/concretestrike/concrestrike_ceil_support_integrated.ase"
 "spawnflags" "14"
@@ -19938,6 +19940,7 @@ bricks/redbricks_base_02
 // entity 59
 {
 "classname" "misc_model"
+"collisiontype" "extrude"
 "origin" "400 -96 464"
 "model" "models/mapobjects/concretestrike/concrestrike_ceil_support_integrated.ase"
 "spawnflags" "14"
@@ -19946,6 +19949,7 @@ bricks/redbricks_base_02
 // entity 60
 {
 "classname" "misc_model"
+"collisiontype" "extrude"
 "origin" "176 -96 464"
 "model" "models/mapobjects/concretestrike/concrestrike_ceil_support_integrated.ase"
 "spawnflags" "14"
@@ -19954,6 +19958,7 @@ bricks/redbricks_base_02
 // entity 61
 {
 "classname" "misc_model"
+"collisiontype" "extrude"
 "origin" "-48 -96 464"
 "model" "models/mapobjects/concretestrike/concrestrike_ceil_support_integrated.ase"
 "spawnflags" "14"
@@ -22869,6 +22874,7 @@ bricks/redbricks_base_02
 // entity 414
 {
 "classname" "misc_model"
+"collisiontype" "extrude"
 "origin" "1024 976 320"
 "model" "models/mapobjects/courtyard/curved_ceilings_mega_to_ya.ase"
 "spawnflags" "6"
@@ -22876,6 +22882,7 @@ bricks/redbricks_base_02
 // entity 415
 {
 "classname" "misc_model"
+"collisiontype" "extrude"
 "origin" "1024 976 320"
 "model" "models/mapobjects/courtyard/curved_ceilings_caps_mega_to_ya.ase"
 "spawnflags" "6"
@@ -22883,6 +22890,7 @@ bricks/redbricks_base_02
 // entity 416
 {
 "classname" "misc_model"
+"collisiontype" "extrude"
 "origin" "-288 528 320"
 "model" "models/mapobjects/courtyard/curved_ceilings_corner_building.ase"
 "spawnflags" "6"
@@ -22921,6 +22929,7 @@ bricks/redbricks_base_02
 // entity 421
 {
 "classname" "misc_model"
+"collisiontype" "extrude"
 "origin" "-288 640 320"
 "model" "models/mapobjects/courtyard/curved_ceilings_caps_corner_building.ase"
 "spawnflags" "6"

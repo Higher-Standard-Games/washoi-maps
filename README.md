@@ -35,8 +35,11 @@ These three were compiled here, with the MakeBSP in `shag/tools/makebsp`
   (the pipes over Amphi2's tower jump pad closed the shaft). Every `misc_model`
   without spawnflag 2 has `"collisiontype" "none"`, which restores the original
   collision: the clip brushes are the same 334 fullclip and 69 playerclip
-  brushes as Warsow's 2015 Depot build. In dm12, 9 models are solid and 165
-  are not; its 232 fullclip and 146 playerclip brushes do the rest.
+  brushes as Warsow's 2015 Depot build. In dm12, 165 models have no collision;
+  its 232 fullclip and 146 playerclip brushes do the rest. Its 9 solid models
+  have `"collisiontype" "extrude"`, MakeBSP's per-polygon collision, as q3map2
+  clipped a solid model's triangles: the default convex hull of the curved
+  ceiling closed the shaft above the jump pad by the Mega Health.
 - **Worldspawn.** `_lightmapImageSize 2048` and `gridsize 64 64 64`, as in Jal's builds.
 - **Material names.** amphi2: `refly/Bricks_Refly_DarkGrey1` →
   `refly_bricks/Bricks_Refly_DarkGrey1` (69 faces). snd6: one visible
