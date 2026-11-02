@@ -17,15 +17,16 @@ from Warfork's media and the `washoi_textures.pk3` master.
 | `maps/washoi_amphi2.map` | Washoi Amphi2 (Octagon Obsession) | warfork-maps `wswmaps/wda5.map`, corrected |
 | `maps/washoi_snd6.map` | Depot | warfork-maps `wswmaps/wbomb6.map`, corrected |
 | `maps/washoi_snd4.map` | Shepas | warfork-maps `maps/wfbomb4.map`, with `_lightmapImageSize 2048` and `gridsize 64 64 64` |
+| `maps/washoi_dm12.map` | Washoi DM12 (Courtyard) | warfork-maps `wswmaps/courtyard/wdm12.map`, corrected |
 
 warfork-maps revision: `00bf74a72c6a66561e07571c59b4ca99850279fa`.
 The first seven are copied as they are upstream. The served BSPs of dm7, dm11,
 dm14 and snd1 are Jal's builds of these sources; dm2 and amphi1 serve the
 original Warsow builds.
 
-## Corrections in amphi2 and snd6
+## Corrections in amphi2, snd6 and dm12
 
-These two were compiled here, with the MakeBSP in `shag/tools/makebsp`
+These three were compiled here, with the MakeBSP in `shag/tools/makebsp`
 (`-game washoi -samplesize 4 -lightmapimagesize 2048`, then MakeLight).
 
 - **Collision.** They were made for q3map2, where a placed model has no
@@ -34,7 +35,8 @@ These two were compiled here, with the MakeBSP in `shag/tools/makebsp`
   (the pipes over Amphi2's tower jump pad closed the shaft). Every `misc_model`
   without spawnflag 2 has `"collisiontype" "none"`, which restores the original
   collision: the clip brushes are the same 334 fullclip and 69 playerclip
-  brushes as Warsow's 2015 Depot build.
+  brushes as Warsow's 2015 Depot build. In dm12, 9 models are solid and 165
+  are not; its 232 fullclip and 146 playerclip brushes do the rest.
 - **Worldspawn.** `_lightmapImageSize 2048` and `gridsize 64 64 64`, as in Jal's builds.
 - **Material names.** amphi2: `refly/Bricks_Refly_DarkGrey1` →
   `refly_bricks/Bricks_Refly_DarkGrey1` (69 faces). snd6: one visible
@@ -44,6 +46,9 @@ These two were compiled here, with the MakeBSP in `shag/tools/makebsp`
   (was `textures/halo_large`). Amphi2's slim neon advert is
   `wda5/wda5_washoi_neon.ase`, a copy of `wsw_adverts/tech_add_1_b.ase` whose
   sign shows the whole of `textures/billboard/neon1_tall`.
+
+The `.map` sources of dm12's courtyard models sit beside them in
+`models/mapobjects/courtyard/`.
 
 ## Models from elsewhere
 

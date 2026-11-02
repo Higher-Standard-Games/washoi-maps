@@ -39,17 +39,20 @@
     "washoi_snd4": {
       "source": ".cache/map-build-2026-11/maps/wfbomb4.map",
       "models": 49
+    },
+    "washoi_dm12": {
+      "source": ".cache/map-build-2026-11/maps/wdm12.map",
+      "models": 28
     }
   },
   "filesBySource": {
-    "C:/Users/sundf/Desktop/warfork-maps": 678,
+    "C:/Users/sundf/Desktop/warfork-maps": 694,
     "rapid.tar": 2,
     "C:/Users/sundf/Desktop/wash/shag/.cache/map-build-2026-11/fixes3": 1,
     "C:/Users/sundf/Desktop/wash/shag/.cache/map-build-2026-11/fixes2": 1,
     "C:/Users/sundf/Desktop/wash/shag/.cache/map-build-2026-11/fixes": 2
   },
-  "missing": [],
-  "addedByHand": {
-    "models/mapobjects/handrails/handrail_2.obj": "warfork-maps (washoi_snd1 names handrail_2.ase, which exists nowhere)"
-  }
+  "missing": [
+    "models/mapobjects/handrails/handrail_2.ase"
+  ]
 }
