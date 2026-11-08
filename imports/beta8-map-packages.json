@@ -1,0 +1,390 @@
+{
+  "revision": "4067818bb3225062a389eafa49819bcb8fe21dae",
+  "models": {
+    "washoi_dm1": 16,
+    "washoi_dm3": 27,
+    "washoi_dm5": 91,
+    "washoi_dm7": 18
+  },
+  "changes": [
+    {
+      "file": "maps/washoi_dm1.map",
+      "source": "C:/Users/sundf/Desktop/warfork-maps/maps/wfdm1.map",
+      "bytes": 1482649,
+      "sha256": "a7e838ae569ee91087944111a689130eb21059bf3ef8c11f963a6c4b7c2a6487",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/lights/fluo-wall-small-24u.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\lights\\fluo-wall-small-24u.obj",
+      "bytes": 54700,
+      "sha256": "7b3821d060c336d2cf1482685cac9becb07e1ab3652967bcfe440de1f4f9b7d9",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/lights/fluo-wall-small-24u.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\lights\\fluo-wall-small-24u.mtl",
+      "bytes": 464,
+      "sha256": "e86fcf4c2cf15803acba5a5e13fa174b3a1b51e4f233b828886a176174156700",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/scifi/pillar-mech.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\scifi\\pillar-mech.obj",
+      "bytes": 1227562,
+      "sha256": "607417d41af244fb4bab7653c3ac64e65c57f1c21e382f3924b1f35157f69a6b",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/scifi/pillar-mech.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\scifi\\pillar-mech.mtl",
+      "bytes": 164,
+      "sha256": "96caa432a933b33b4f9fb6f4808384c273e0fe26aabb1e3691319e38875bde61",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/lights/fluo-light-wall-tiny-8u.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\lights\\fluo-light-wall-tiny-8u.obj",
+      "bytes": 201680,
+      "sha256": "f0012c09448cc22072912fd21418d91196e2cc74159c043f99bc532873eac41c",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/lights/fluo-light-wall-tiny-8u.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\lights\\fluo-light-wall-tiny-8u.mtl",
+      "bytes": 464,
+      "sha256": "e86fcf4c2cf15803acba5a5e13fa174b3a1b51e4f233b828886a176174156700",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/boqu/cctvholder.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\boqu\\cctvholder.obj",
+      "bytes": 68005,
+      "sha256": "844cd6215848d435bb6f3a8f7dea2a2ce7896e054ed2c4bdc13bc5a201935722",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/boqu/cctvholder.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\boqu\\cctvholder.mtl",
+      "bytes": 267,
+      "sha256": "574a2f0b13ad3f36f2f733ad6e659fd9a94416d08eac3e92430108ec6eff4d98",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/cables/cables_trio.ase",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\cables\\cables_trio.ase",
+      "bytes": 248968,
+      "sha256": "19c23a36515e0b2d0dbcb11ba9643ab5262af4227c228056e23d9d7403e2c09b",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/cables/cables_2.ase",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\cables\\cables_2.ase",
+      "bytes": 372975,
+      "sha256": "625462bcfa860b7cc8c65633fe5be97704175505456f9f72b02d6412a886c6e0",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/industrial/barrel_1.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\industrial\\barrel_1.obj",
+      "bytes": 39159,
+      "sha256": "fcd504fb04ee59141267c9ef73c0342fe749157bc6bf7fb1e9677c104286b3eb",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/industrial/barrel_1.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\industrial\\barrel_1.mtl",
+      "bytes": 163,
+      "sha256": "c0d4f384e03f017ce6c78d0ca34990c416f53297ab6c47840a08f00ba9a53ac9",
+      "updated": false
+    },
+    {
+      "file": "maps/washoi_dm3.map",
+      "source": "C:/Users/sundf/Desktop/warfork-maps/maps/wfdm3.map",
+      "bytes": 1254380,
+      "sha256": "231a95a72db2cad907d93dc80e67f6aabfe5039622144aed612f709a4e375d29",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/cliffrock.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\cliffrock.obj",
+      "bytes": 395152,
+      "sha256": "3b26a4526848a7896f359a1ead25e0b8531c3450ff6ba5a7a0eabdaccaa15c8e",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/cliffrock.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\cliffrock.mtl",
+      "bytes": 173,
+      "sha256": "eee8f57fb88305f8187d4759fd7d4b72442750510a9670a496739444c4d762bc",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/cliffrock_north.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\cliffrock_north.obj",
+      "bytes": 203893,
+      "sha256": "07b6d9473eb7d78790e04fea267447104d789ef04bc67744b47e6fe6cceb9f48",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/cliffrock_north.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\cliffrock_north.mtl",
+      "bytes": 201,
+      "sha256": "5980daf983e19ffa012df7ee49dc41f2e3eca54279771b46b3a6be7c0be65471",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/blocky_fat.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\blocky_fat.obj",
+      "bytes": 62053,
+      "sha256": "32bffae48806e660176bbced4813ba937ca8415e09b3befb8c7a88da59fdf4a7",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/blocky_fat.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\blocky_fat.mtl",
+      "bytes": 299,
+      "sha256": "72351f3bf7202358059ef165cb6066a7086b1d391275a8ed25486d9da8c494f7",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/blocky_tall02.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\blocky_tall02.obj",
+      "bytes": 83213,
+      "sha256": "3efd7d53ce4e483e1616ccab98c53a91f8339c690784d065ec59f2ee96ca17bc",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/blocky_tall02.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\blocky_tall02.mtl",
+      "bytes": 258,
+      "sha256": "e4b7dffbacd9eba242a2682f569a8f3b1744a7a1c98817b6f252a4fe083cd7a1",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/blocky_plat02.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\blocky_plat02.obj",
+      "bytes": 28102,
+      "sha256": "3fb744a892e724ad18d9010664138ee305349df420ce6ec9b8849dddb977ec82",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/blocky_plat02.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\blocky_plat02.mtl",
+      "bytes": 258,
+      "sha256": "e4b7dffbacd9eba242a2682f569a8f3b1744a7a1c98817b6f252a4fe083cd7a1",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/blocky_plat03.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\blocky_plat03.obj",
+      "bytes": 28593,
+      "sha256": "cb2fc23461dbfd04257bfdf6f73d3df3f4c25876a40c2234a5ee1c040a944d23",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/blocky_plat03.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\blocky_plat03.mtl",
+      "bytes": 258,
+      "sha256": "e4b7dffbacd9eba242a2682f569a8f3b1744a7a1c98817b6f252a4fe083cd7a1",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/blocky_mid01.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\blocky_mid01.obj",
+      "bytes": 50901,
+      "sha256": "48c27bceb7249fe371db10cefbfdb39b046566b1feb4441c4236d75b0938cee0",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/blocky_mid01.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\blocky_mid01.mtl",
+      "bytes": 258,
+      "sha256": "e4b7dffbacd9eba242a2682f569a8f3b1744a7a1c98817b6f252a4fe083cd7a1",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/cliffrock_top.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\cliffrock_top.obj",
+      "bytes": 132672,
+      "sha256": "cb8d2324543449907f5e93e0b8c740d7e3da94dbb0d5a35da9b603013c829a37",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/cliffrock_top.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\cliffrock_top.mtl",
+      "bytes": 201,
+      "sha256": "5980daf983e19ffa012df7ee49dc41f2e3eca54279771b46b3a6be7c0be65471",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/blocky_tall01.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\blocky_tall01.obj",
+      "bytes": 77778,
+      "sha256": "950b1dae5b47d54080d1ba860ee99734e42801380184404351751195913d46b9",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/blocky_tall01.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\blocky_tall01.mtl",
+      "bytes": 258,
+      "sha256": "e4b7dffbacd9eba242a2682f569a8f3b1744a7a1c98817b6f252a4fe083cd7a1",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/scifi/doordouble01left.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\scifi\\doordouble01left.obj",
+      "bytes": 11899,
+      "sha256": "294a7a0b6c3bdf0d18d2207112680efa9c499d20f052df52d3eeeac47b397b6f",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/scifi/doordouble01left.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\scifi\\doordouble01left.mtl",
+      "bytes": 181,
+      "sha256": "7bfbdad02e94d1724645a9571ea237c7b7cc6b1506b4a0f035a0e2c738ec5796",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/scifi/doordouble01right.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\scifi\\doordouble01right.obj",
+      "bytes": 12333,
+      "sha256": "bbc68f150d6c7bcb9d12d4a776c3f57acebabe0b5de2a5832451ceea611210ea",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/scifi/doordouble01right.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\scifi\\doordouble01right.mtl",
+      "bytes": 219,
+      "sha256": "1357ab68078aba01aaf6d3c1aa397877cc1c7167289332f0cfe43f4db49d0a03",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/scifi/doordouble01-short-right.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\scifi\\doordouble01-short-right.obj",
+      "bytes": 12374,
+      "sha256": "cb1df9097d92c830a8ab719e3bf0894b9b7499e2109624d1214e24ec1ee01658",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/scifi/doordouble01-short-right.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\scifi\\doordouble01-short-right.mtl",
+      "bytes": 183,
+      "sha256": "7fa070b3794d943a0864da6ae8d7c508cb1ce059790329a73e13e4746303ce32",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/scifi/doordouble01-short-left.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\scifi\\doordouble01-short-left.obj",
+      "bytes": 11915,
+      "sha256": "3b09445d331ef2403cd9ac3f4c9fda7353c93d001186ddb4421d4f6ce18f4d30",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/scifi/doordouble01-short-left.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\scifi\\doordouble01-short-left.mtl",
+      "bytes": 181,
+      "sha256": "7bfbdad02e94d1724645a9571ea237c7b7cc6b1506b4a0f035a0e2c738ec5796",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/blocky_rock01.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\blocky_rock01.obj",
+      "bytes": 31609,
+      "sha256": "9fddfa91ad53874b8e26988bb8b5ffb6a07f65a3710b695d6db15f788dceb411",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/rocks/blocky_rock01.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\rocks\\blocky_rock01.mtl",
+      "bytes": 258,
+      "sha256": "e4b7dffbacd9eba242a2682f569a8f3b1744a7a1c98817b6f252a4fe083cd7a1",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/teleporter/teleporter_pod_full.obj",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\teleporter\\teleporter_pod_full.obj",
+      "bytes": 38154,
+      "sha256": "fa5acfc05966402bf4c3fef3f31702f8b5bff35bc3396e4c4092c2e321f16654",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/teleporter/teleporter_pod_full.mtl",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\teleporter\\teleporter_pod_full.mtl",
+      "bytes": 456,
+      "sha256": "4562090443dbd6b1200996f9ec47937c4576539baf183b7f5f47e3baf37d14ae",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/supports/yellowsupport512tile.ase",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\supports\\yellowsupport512tile.ase",
+      "bytes": 371933,
+      "sha256": "00f43cfdb0e35715b39ab62b20bc6cfaff4f2b155b0809d172e8aca921f0d1dc",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/supports/support_triangle_dark_320.ase",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\supports\\support_triangle_dark_320.ase",
+      "bytes": 80409,
+      "sha256": "c4bef5bb5ea22ea22fbdadfe993f026aec2ac3e4d2beb85c0313b0b73e4f749c",
+      "updated": false
+    },
+    {
+      "file": "models/mapobjects/cables/cables_1_straight.ase",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\cables\\cables_1_straight.ase",
+      "bytes": 255119,
+      "sha256": "cce885cdbc65be5d41fee13be1ed10283cb6d997804a556d7d6a34d232b58eef",
+      "updated": true
+    },
+    {
+      "file": "models/mapobjects/cables/cables_1_straight_cross.ase",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\cables\\cables_1_straight_cross.ase",
+      "bytes": 242720,
+      "sha256": "cc647ec04ecfc47a7409c6610da9c5ee384f7956f73f0f1616844e996baf88d7",
+      "updated": true
+    },
+    {
+      "file": "maps/washoi_dm5.map",
+      "source": "C:/Users/sundf/Desktop/warfork-maps/maps/wfdm5.map",
+      "bytes": 2027897,
+      "sha256": "7c1f102ac5c19b519df16379ade42ce3ed2bf8176724023380625027da88d6bd",
+      "updated": true
+    },
+    {
+      "file": "models/mapobjects/cables/cables_2b.ase",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\cables\\cables_2b.ase",
+      "bytes": 314553,
+      "sha256": "4b448af049f6e4385212310eb8770b2bad4525acad66aee62e087ce9991d5670",
+      "updated": false
+    },
+    {
+      "file": "maps/washoi_dm7.map",
+      "source": "C:/Users/sundf/Desktop/warfork-maps/maps/wfdm7.map",
+      "bytes": 1653096,
+      "sha256": "785eec5f15428b91fb08535dd45ac3c7277c1ebba7b4328cb05d66d5984799cc",
+      "updated": true
+    },
+    {
+      "file": "models/mapobjects/wsw_adverts/tech_add_1.ase",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\wsw_adverts\\tech_add_1.ase",
+      "bytes": 425531,
+      "sha256": "d6cdbc431474ed714ed4db5af7e66f0c54cedf184e0410820b6b59fd8a81e73c",
+      "updated": true
+    },
+    {
+      "file": "models/mapobjects/nature/plant_1_v_small.ase",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\nature\\plant_1_v_small.ase",
+      "bytes": 433855,
+      "sha256": "71ec26d286f16c7c21d78494995fc3fb0bcec72e283af81294bcdf239415f6b7",
+      "updated": true
+    },
+    {
+      "file": "models/mapobjects/nature/plant_1.ase",
+      "source": "C:\\Users\\sundf\\Desktop\\warfork-maps\\models\\mapobjects\\nature\\plant_1.ase",
+      "bytes": 2843820,
+      "sha256": "a863b6e6694d0c1d83c73e5f9d500a03ddc22427d2bb555d6c79e648d39dd303",
+      "updated": true
+    }
+  ],
+  "missing": []
+}

@@ -6,11 +6,13 @@
     },
     "washoi_dm5": {
       "source": "C:/Users/sundf/Desktop/warfork-maps/maps/wfdm5.map",
+      "revision": "4067818bb3225062a389eafa49819bcb8fe21dae",
       "models": 91
     },
     "washoi_dm7": {
       "source": "C:/Users/sundf/Desktop/warfork-maps/maps/wfdm7.map",
-      "models": 17
+      "revision": "4067818bb3225062a389eafa49819bcb8fe21dae",
+      "models": 18
     },
     "washoi_dm11": {
       "source": "C:/Users/sundf/Desktop/warfork-maps/maps/wfdm11.map",
@@ -43,6 +45,19 @@
     "washoi_dm12": {
       "source": ".cache/map-build-2026-11/maps/wdm12.map",
       "models": 28
+    },
+    "washoi_dm1": {
+      "source": "C:/Users/sundf/Desktop/warfork-maps/maps/wfdm1.map",
+      "revision": "4067818bb3225062a389eafa49819bcb8fe21dae",
+      "models": 16
+    },
+    "washoi_dm3": {
+      "source": "C:/Users/sundf/Desktop/warfork-maps/maps/wfdm3.map",
+      "revision": "4067818bb3225062a389eafa49819bcb8fe21dae",
+      "models": 27,
+      "compiledSource": "warfork-qfusion/assets/data1_21pure/maps/wfdm3.bsp",
+      "compiledRevision": "d931ca061c39e6a39ab7f3a17cb159e48101ed7b",
+      "sourceSha256": "231a95a72db2cad907d93dc80e67f6aabfe5039622144aed612f709a4e375d29"
     }
   },
   "filesBySource": {
@@ -54,5 +69,18 @@
   },
   "missing": [
     "models/mapobjects/handrails/handrail_2.ase"
+  ],
+  "imports": [
+    {
+      "date": "2026-11-08",
+      "revision": "4067818bb3225062a389eafa49819bcb8fe21dae",
+      "maps": [
+        "washoi_dm1",
+        "washoi_dm3",
+        "washoi_dm5",
+        "washoi_dm7"
+      ],
+      "ledger": "imports/beta8-map-packages.json"
+    }
   ]
 }

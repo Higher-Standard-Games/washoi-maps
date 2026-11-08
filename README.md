@@ -7,6 +7,8 @@ from Warfork's media and the `washoi_textures.pk3` master.
 
 | Map | Release | Origin |
 | --- | --- | --- |
+| `maps/washoi_dm1.map` | Washoi DM1 (Flew over) | warfork-maps `maps/wfdm1.map` |
+| `maps/washoi_dm3.map` | Washoi DM3 (Deeper Underground) | warfork-maps `maps/wfdm3.map` |
 | `maps/washoi_dm2.map` | Washoi DM2 (Le Dream On) | warfork-maps `wswmaps/wdm2.map` |
 | `maps/washoi_dm5.map` | Washoi DM5 (viciious' lair) | warfork-maps `maps/wfdm5.map` |
 | `maps/washoi_dm7.map` | Washoi DM7 (Crocinus bridge) | warfork-maps `maps/wfdm7.map` |
@@ -19,10 +21,11 @@ from Warfork's media and the `washoi_textures.pk3` master.
 | `maps/washoi_snd4.map` | Shepas | warfork-maps `maps/wfbomb4.map`, with `_lightmapImageSize 2048` and `gridsize 64 64 64` |
 | `maps/washoi_dm12.map` | Washoi DM12 (Courtyard) | warfork-maps `wswmaps/courtyard/wdm12.map`, corrected |
 
-warfork-maps revision: `00bf74a72c6a66561e07571c59b4ca99850279fa`.
-The first seven are copied as they are upstream. The served BSPs of dm7, dm11,
-dm14 and snd1 are Jal's builds of these sources; dm2 and amphi1 serve the
-original Warsow builds.
+Original import warfork-maps revision: `00bf74a72c6a66561e07571c59b4ca99850279fa`.
+DM2, DM11, DM14, Amphi1 and S&D1 retain their initial imported sources.
+The served BSPs of DM11, DM14 and S&D1 are Jal's builds; DM2 and Amphi1 use
+their original compiled builds. The November refresh below records the sources
+and compiled builds for DM1, DM3, DM5 and DM7.
 
 ## Corrections in amphi2, snd6 and dm12
 
@@ -66,3 +69,11 @@ warfork-maps:
 
 `washoi_snd1.map` names `handrails/handrail_2.ase`, which exists nowhere;
 `handrail_2.obj` is its Warfork counterpart (the wfbomb1 compile used it).
+
+## November map refresh
+
+DM1, DM3, DM5 and DM7 use warfork-maps revision `4067818bb3225062a389eafa49819bcb8fe21dae`.
+Their map and referenced model sources are copied without edits; the existing
+`airshaft.ase` fallback remains available for DM5. The per-file import ledger is
+`imports/beta8-map-packages.json`. The runtime BSPs come from warfork-qfusion
+`assets/data1_21pure/maps/wfdm{1,3,5,7}.bsp`, under their Washoi release names.
