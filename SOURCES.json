@@ -58,10 +58,34 @@
       "compiledSource": "warfork-qfusion/assets/data1_21pure/maps/wfdm3.bsp",
       "compiledRevision": "d931ca061c39e6a39ab7f3a17cb159e48101ed7b",
       "sourceSha256": "231a95a72db2cad907d93dc80e67f6aabfe5039622144aed612f709a4e375d29"
+    },
+    "washoi_dm16": {
+      "source": ".cache/map-build-2026-11b/maps/wdm16.map",
+      "upstream": "C:/Users/sundf/Desktop/warfork-maps/wswmaps/wdm16.map",
+      "revision": "4067818bb3225062a389eafa49819bcb8fe21dae",
+      "models": 40
+    },
+    "washoi_dm17": {
+      "source": ".cache/map-build-2026-11b/maps/wdm17.map",
+      "upstream": "C:/Users/sundf/Desktop/warfork-maps/wswmaps/wdm17.map",
+      "revision": "4067818bb3225062a389eafa49819bcb8fe21dae",
+      "models": 64
+    },
+    "washoi_dm18": {
+      "source": ".cache/map-build-2026-11b/maps/wdm18.map",
+      "upstream": "C:/Users/sundf/Desktop/warfork-maps/wswmaps/wdm18.map",
+      "revision": "4067818bb3225062a389eafa49819bcb8fe21dae",
+      "models": 9
+    },
+    "washoi_amphi3": {
+      "source": ".cache/map-build-2026-11b/maps/wda2.map",
+      "upstream": "C:/Users/sundf/Desktop/warfork-maps/wswmaps/wda2.map",
+      "revision": "4067818bb3225062a389eafa49819bcb8fe21dae",
+      "models": 44
     }
   },
   "filesBySource": {
-    "C:/Users/sundf/Desktop/warfork-maps": 694,
+    "C:/Users/sundf/Desktop/warfork-maps": 860,
     "rapid.tar": 2,
     "C:/Users/sundf/Desktop/wash/shag/.cache/map-build-2026-11/fixes3": 1,
     "C:/Users/sundf/Desktop/wash/shag/.cache/map-build-2026-11/fixes2": 1,
@@ -81,6 +105,17 @@
         "washoi_dm7"
       ],
       "ledger": "imports/beta8-map-packages.json"
+    },
+    {
+      "date": "2026-11-13",
+      "revision": "4067818bb3225062a389eafa49819bcb8fe21dae",
+      "maps": [
+        "washoi_dm16",
+        "washoi_dm17",
+        "washoi_dm18",
+        "washoi_amphi3"
+      ],
+      "files": 166
     }
   ]
 }
