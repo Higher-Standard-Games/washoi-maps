@@ -22,7 +22,7 @@ from Warfork's media and the `washoi_textures.pk3` master.
 | `maps/washoi_dm12.map` | Washoi DM12 (Courtyard) | warfork-maps `wswmaps/courtyard/wdm12.map`, corrected |
 | `maps/washoi_dm16.map` | Washoi DM16 (The Deepest Underground) | warfork-maps `wswmaps/wdm16.map`, corrected |
 | `maps/washoi_dm17.map` | Washoi DM17 (Le Toxiquet) | warfork-maps `wswmaps/wdm17.map`, corrected |
-| `maps/washoi_dm18.map` | Washoi DM18 (Praxtor) | warfork-maps `wswmaps/wdm18.map`, corrected; withdrawn from the game while its lighting is reworked |
+| `maps/washoi_dm18.map` | Washoi DM18 (Praxtor) | warfork-maps `wswmaps/wdm18.map`, corrected |
 | `maps/washoi_amphi3.map` | Washoi Amphi3 (Melee) | warfork-maps `wswmaps/wda2.map`, corrected |
 
 Original import warfork-maps revision: `00bf74a72c6a66561e07571c59b4ca99850279fa`.
