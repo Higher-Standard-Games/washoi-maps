@@ -121,3 +121,19 @@ Compiled with the MakeBSP in `shag/tools/makebsp` from warfork-maps
   `tech_add_2_w_nolights.ase` here are the versions the earlier maps were
   compiled with. These four were compiled with warfork-maps' `4067818` versions,
   which drop the hidden caulk and helper materials.
+
+## License
+
+The map and model sources in this repository are licensed under the
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+(CC BY 4.0); the full text is in [`LICENSE`](LICENSE).
+
+They are adaptations of the Warsow and Warfork maps and models in
+[warfork-maps](https://github.com/Warfork/warfork-maps), by their original
+authors; the map authors are listed on the
+[Warfork wiki](https://warforkwiki.com/index.php?title=Maps). The changes made
+here are described in the sections above, and `SOURCES.json` and `imports/`
+record where each file came from.
+
+To credit this work, name the original map authors, "Washoi maps by Higher
+Standard Games", link to the license, and say whether you changed anything.
