@@ -129,7 +129,7 @@ The map and model sources in this repository are licensed under the
 (CC BY 4.0); the full text is in [`LICENSE`](LICENSE).
 
 They are adaptations of the Warsow and Warfork maps and models in
-[warfork-maps](https://github.com/Warfork/warfork-maps), by their original
+[warfork-maps](https://github.com/TeamForbiddenLLC/warfork-maps), by their original
 authors; the map authors are listed on the
 [Warfork wiki](https://warforkwiki.com/index.php?title=Maps). The changes made
 here are described in the sections above, and `SOURCES.json` and `imports/`
